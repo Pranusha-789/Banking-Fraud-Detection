@@ -3,9 +3,13 @@ Objectives:
  
 Data Collection: (Kaggle)
 For this project on Fraud Detection in Banking, a synthetic dataset with approximately 50,000 transaction records was used. The dataset was designed to simulate real-world banking scenarios and includes detailed attributes such as:
+
 •	Transaction ID, User ID, Transaction Amount, Transaction Type, Timestamp
+
 •	Device Type, Location, Merchant Category, Card Type, Risk Score
+
 •	Failed_Transaction_Count_7d, Previous fraudulent Activity, Fraud Label, and more.
+
 The dataset was downloaded from a public repository (Kaggle) titled “Synthetic Financial Datasets for Fraud Detection”, which is commonly used for analytical practice.
 The data was provided in CSV format and imported using:
 Excel,power query and Power BI
