@@ -37,3 +37,35 @@ Detect patterns and behaviors that indicate potential fraud.
 •	Identify high-risk users for closer monitoring.
 
 •	Provide actionable insights to support fraud prevention strategies.
+Project Overview:
+I developed a complete fraud detection analytics solution using a synthetic dataset of 50,000+ banking transactions. The project aimed to identify suspicious transactions and uncover fraud patterns using Excel, Power Query, and Power BI.
+
+ Tools & Techniques Used:
+Excel: Data cleaning, transformation, and risk level categorization using formulas like VLOOKUP and IF.
+
+Power Query: Converted timestamps, removed duplicates/nulls, and built refined columns (e.g., Risk Level, Weekend Flag).
+
+Power BI:
+
+Created DAX measures like Total Fraud Count, High-Risk Fraud, Fraud % by Card Type, and Weekend Fraud Count.
+
+Designed interactive visuals: Clustered Bar, Tree Map, KPI Cards, Gauge, Matrix, and Maps.
+
+Developed flags: High Transaction Alert, Frequent Failed Transactions, Suspicious Flag, and Risk Level Category.
+
+Used slicers for filtering by Card Type, Risk Level, Fraud Status, Device Type, etc.
+
+Key Insights:
+Majority of fraudulent activity occurred on weekends.
+
+Users with high risk scores and frequent failed transactions had higher fraud likelihood.
+
+Mobile devices and certain locations were more associated with fraud.
+
+Fraud % varied significantly by card type and authentication method.
+
+Outcome:
+This project enhanced my skills in data wrangling, DAX, and building dynamic dashboards. It also deepened my understanding of how analytics can proactively support fraud detection in banking.
+Project Overview: I developed a complete fraud detection analytics solution using a synthetic dataset of 50,000+ banking transactions. The project aimed to identify suspicious transactions and uncover fraud patterns using Excel, Power Query, and Power BI. Tools & Techniques Used: Excel: Data cleaning, transformation, and risk level categorization using formulas like VLOOKUP and IF. Power Query: Converted timestamps, removed duplicates/nulls, and built refined columns (e.g., Risk Level, Weekend Flag). Power BI: Created DAX measures like Total Fraud Count, High-Risk Fraud, Fraud % by Card Type, and Weekend Fraud Count. Designed interactive visuals: Clustered Bar, Tree Map, KPI Cards, Gauge, Matrix, and Maps. Developed flags: High Transaction Alert, Frequent Failed Transactions, Suspicious Flag, and Risk Level Category. Used slicers for filtering by Card Type, Risk Level, Fraud Status, Device Type, etc. Key Insights: Majority of fraudulent activity occurred on weekends. Users with high risk scores and frequent failed transactions had higher fraud likelihood. Mobile devices and certain locations were more associated with fraud. Fraud % varied significantly by card type and authentication method. Outcome: This project enhanced my skills in data wrangling, DAX, and building dynamic dashboards. It also deepened my understanding of how analytics can proactively support fraud detection in banking.
+Skills: Microsoft Power Query · Microsoft Power BI · Microsoft Excel
+
